@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Batuhan%20Eren&fontSize=70" />
 
-  <h1>Hi 👋, I'm Batuhan Eren</h1>
+  <h1>Hi 👋, I'm Elif Rana Kemal </h1>
   <h3>Computer Engineering Student @ Selçuk University</h3>
 </div>
 
@@ -22,8 +22,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/batuhan-eren-610975292/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="batuhaneren" height="30" width="40" /></a>
-<a href="https://instagram.com/batuern0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itsmelih_" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/batuhan-eren-610975292/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elifranakemal" height="30" width="40" /></a>
+<a href="https://instagram.com/elifranakemal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itsmelih_" height="30" width="40" /></a>
 </p>
 
 ### 🛠 Languages & Tools

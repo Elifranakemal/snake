@@ -16,9 +16,9 @@
 ---
 
 ### 🚀 About Me
-* 🔭  I’m currently working on Python  | AI & Machine Learning
-* 🌱 I’m currently learning Django Framework and LLM's
-*  📫 How to reach me: *elifranakemal@gmail.com*
+* 🔭  I’m currently working on **Enterprise Resource Planning (ERP) Engineering**.
+* 🌱  I’m currently learning how to optimize business processes with software solutions.
+* 📫 How to reach me: *elifranakemal@gmail.com*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

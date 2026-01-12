@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Elif Rana%20Kemal&fontSize=70" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Elif%20Rana%20Kemal&fontSize=70" />
 
   <h1>Hi 👋, I'm Elif Rana Kemal </h1>
   <h3>Computer Engineering Student @ Selçuk University</h3>

@@ -18,7 +18,7 @@
 ### 🚀 About Me
 * 🔭  I’m currently working on **Enterprise Resource Planning (ERP) Engineering**.
 * 🌱  I’m currently learning how to optimize business processes with software solutions.
-* 📫 How to reach me: *elifranakemal@gmail.com*
+* 📫  How to reach me: *elifranakemal@gmail.com*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -33,19 +33,19 @@
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
   <img width="12" />
- 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
+  <img width="12" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo"  />
   <img width="12" />
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="mssql logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
-  <img width="12" />
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
